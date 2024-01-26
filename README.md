@@ -1,1 +1,1 @@
-# Motivatio-meme-project
+# Motivation-meme-project
